@@ -122,5 +122,4 @@ function Newsletter() {
   </form>;
 }
 
-createRoot;
 export default App;
